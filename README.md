@@ -1,7 +1,6 @@
 # Ipp
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Ember CLI proof of concept. This repository is the default Ember starter app named Ipp.
 
 ## Prerequisites
 
