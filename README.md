@@ -1,5 +1,10 @@
 # Ipp
 
+**Stack:** Ember.js, Ember CLI
+
+**Skills:** Frontend frameworks
+
+
 Ember CLI proof of concept. This repository is the default Ember starter app named Ipp.
 
 ## Prerequisites
@@ -49,4 +54,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
